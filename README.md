@@ -18,15 +18,6 @@ are performed:
 
 [NOTE] arithmetic over large finite fields can be quite expensive: division costs more than multiplication, which costs more than addition/subtraction.
 
-## Hardware and Software Environment
-
-- **Hardware**: 
-    - CPU: Apple M3
-    - RAM: 8GB
-    - OS: macOS Sonoma 14.5
-
-- **Rust Version**: 
-    - Rust 1.81.0 (stable)
 
 ## Design Choices and Assumptions
 
