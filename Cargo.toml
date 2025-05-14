@@ -1,0 +1,8 @@
+[package]
+name = "sparse_polynomial"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ark-ff = "0.3"
+ark-test-curves = { version = "0.3", features = ["bls12_381_curve"] }
